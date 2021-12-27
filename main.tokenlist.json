@@ -50,6 +50,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x43C812Ba28cb061b1Be7514145A15C9E18a27342",
+      "decimals": 18,
+      "name": "Alligator",
+      "symbol": "GTR",
+      "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0x43C812Ba28cb061b1Be7514145A15C9E18a27342/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "decimals": 18,
       "name": "Wrapped AVAX",
