@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "alligator", "alligator defi"],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -146,20 +146,28 @@
     },
     {
       "chainId": 43114,
-      "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
-      "decimals": 9,
-      "name": "Time",
-      "symbol": "TIME",
-      "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x5947BB275c521040051D82396192181b413227A3",
       "decimals": 18,
       "name": "ChainLink Token",
       "symbol": "LINK.e",
       "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
+      "decimals": 6,
+      "name": "Axelar Wrapped UST",
+      "symbol": "UST",
+      "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+      "decimals": 18,
+      "name": "THOR",
+      "symbol": "THOR",
+      "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
     }
   ],
-  "timestamp": "2022-01-19T00:00:00+00:00"
+  "timestamp": "2022-01-30T00:00:00+00:00"
 }
