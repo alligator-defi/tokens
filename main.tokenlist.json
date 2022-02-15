@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "alligator", "alligator defi"],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
@@ -169,5 +169,5 @@
       "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
     }
   ],
-  "timestamp": "2022-01-30T00:00:00+00:00"
+  "timestamp": "2022-02-15T00:00:00+00:00"
 }
