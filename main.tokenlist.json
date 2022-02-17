@@ -167,7 +167,15 @@
       "name": "THOR v2",
       "symbol": "THOR",
       "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+      "decimals": 18,
+      "name": "Avalaunch",
+      "symbol": "XAVA",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
     }
   ],
-  "timestamp": "2022-02-16T00:00:00+00:00"
+  "timestamp": "2022-02-17T00:00:00+00:00"
 }
