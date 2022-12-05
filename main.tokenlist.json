@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "alligator", "alligator defi"],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   },
@@ -151,7 +151,15 @@
       "name": "Avalaunch",
       "symbol": "XAVA",
       "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+      "decimals": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "logoURI": "https://raw.githubusercontent.com/alligator-defi/tokens/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
     }
   ],
-  "timestamp": "2022-12-3T00:00:00+00:00"
+  "timestamp": "2022-12-04T00:00:00+00:00"
 }
